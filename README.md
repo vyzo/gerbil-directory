@@ -22,7 +22,6 @@ and open a PR!
 | [github.com/thunknyc/gerbil-list](https://github.com/thunknyc/gerbil-list) | List utilities |
 | [github.com/thunknyc/gerbil-sugar](https://github.com/thunknyc/gerbil-sugar) | Thunk NYC Corp. sugar for Gerbil |
 | [github.com/thunknyc/gerbil-treadmill](https://github.com/thunknyc/gerbil-treadmill) | Gerbil back-end for Emacs integration |
-| [github.com/thunknyc/gerbil-wrapl](https://github.com/thunknyc/gerbil-wrapl) | A remote REPL facility for Gerbil |
 | [github.com/vyzo/gerbil-aws](https://github.com/vyzo/gerbil-aws) | AWS client libraries |
 | [github.com/vyzo/gerbil-cairo](https://github.com/vyzo/gerbil-cairo) | Cairo bindings |
 | [github.com/vyzo/gerbil-libp2p](https://github.com/vyzo/gerbil-libp2p) | libp2p bindings |
