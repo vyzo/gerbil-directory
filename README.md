@@ -3,6 +3,7 @@
 This is a list of known Gerbil packages; to add your package to the list, just edit README.md
 and open a PR!
 
+<!-- begin-pkg -->
 | Package | Description |
 |---------|-------------|
 | [github.com/danielsz/gerbil-gumbo](https://github.com/danielsz/gerbil-gumbo) | Gumbo parser bindings |
@@ -27,3 +28,4 @@ and open a PR!
 | [github.com/vyzo/gerbil-libp2p](https://github.com/vyzo/gerbil-libp2p) | libp2p bindings |
 | [github.com/vyzo/gerbil-netvis](https://github.com/vyzo/gerbil-netvis) | A simple network visualizer for pubsub message propagation |
 | [github.com/vyzo/gerbil-simsub](https://github.com/vyzo/gerbil-simsub) | A pubsub protocol and its simulator |
+<!-- end-pkg -->
