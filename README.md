@@ -11,6 +11,7 @@ and open a PR!
 | [github.com/drewc/gerbil-local-time](https://github.com/drewc/gerbil-local-time) | A gerbil package that implements "The Long, Painful History of Time" |
 | [github.com/ecraven/r7rs-swank](https://github.com/ecraven/r7rs-swank) | Swank server for r7rs Schemes |
 | [github.com/fare/gerbil-utils](https://github.com/fare/gerbil-utils) | Collection of Utilities |
+| [github.com/hckiang/srfi-54](https://github.com/hckiang/srfi-54) | SRFI-54 |
 | [github.com/ober/confluence](https://github.com/ober/confluence) | Confluence cli |
 | [github.com/ober/datadog](https://github.com/ober/datadog) | Datadog package |
 | [github.com/ober/jira](https://github.com/ober/jira) | jira client |
@@ -28,5 +29,4 @@ and open a PR!
 | [github.com/vyzo/gerbil-libp2p](https://github.com/vyzo/gerbil-libp2p) | libp2p bindings |
 | [github.com/vyzo/gerbil-netvis](https://github.com/vyzo/gerbil-netvis) | A simple network visualizer for pubsub message propagation |
 | [github.com/vyzo/gerbil-simsub](https://github.com/vyzo/gerbil-simsub) | A pubsub protocol and its simulator |
-| [github.com/hckiang/srfi-54](https://github.com/hckiang/srfi-54) | SRFI-54 |
 <!-- end-pkg -->
