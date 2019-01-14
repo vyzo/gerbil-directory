@@ -28,4 +28,5 @@ and open a PR!
 | [github.com/vyzo/gerbil-libp2p](https://github.com/vyzo/gerbil-libp2p) | libp2p bindings |
 | [github.com/vyzo/gerbil-netvis](https://github.com/vyzo/gerbil-netvis) | A simple network visualizer for pubsub message propagation |
 | [github.com/vyzo/gerbil-simsub](https://github.com/vyzo/gerbil-simsub) | A pubsub protocol and its simulator |
+| [github.com/hckiang/srfi-54](https://github.com/hckiang/srfi-54) | SRFI-54 |
 <!-- end-pkg -->
