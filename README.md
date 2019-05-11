@@ -20,6 +20,7 @@ and open a PR!
 | [github.com/ober/Kunabi](https://github.com/ober/Kunabi) | Cloudtrail parser |
 | [github.com/ober/mpx8](https://github.com/ober/mpx8) | Mpx8 CLI tools |
 | [github.com/ober/slack](https://github.com/ober/slack) | Slack Package |
+| [github.com/proksi21/gerbil-tools](https://github.com/proksi21/gerbil-tools) | Gerbil Xerx: Collection of useful macros (aif, alambda and so on) |
 | [github.com/thunknyc/gerbil-apropos](https://github.com/thunknyc/gerbil-apropos) | Tool for generating exported Gerbil names |
 | [github.com/thunknyc/gerbil-hash](https://github.com/thunknyc/gerbil-hash) | Hash table match macro and constructor |
 | [github.com/thunknyc/gerbil-ioenv](https://github.com/thunknyc/gerbil-ioenv) | IO environments |
