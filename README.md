@@ -6,6 +6,7 @@ and open a PR!
 <!-- begin-pkg -->
 | Package | Description |
 |---------|-------------|
+| [github.com/proksi21/gerbil-tools](https://github.com/proksi21/gerbil-tools) | Gerbil Xerx: Collection of useful macros (aif, alambda and so on) |
 | [github.com/danielsz/gerbil-gumbo](https://github.com/danielsz/gerbil-gumbo) | Gumbo parser bindings |
 | [github.com/drewc/gerbil-ftw](https://github.com/drewc/gerbil-ftw) | For the Web! |
 | [github.com/drewc/gerbil-local-time](https://github.com/drewc/gerbil-local-time) | A gerbil package that implements "The Long, Painful History of Time" |
