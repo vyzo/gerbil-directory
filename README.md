@@ -12,9 +12,9 @@ and open a PR!
 | [github.com/drewc/gerbil-midi](https://github.com/drewc/gerbil-midi) | A simple way of interacting with MIDI events and files.|
 | [github.com/drewc/gerbil-repl-history](https://github.com/drewc/gerbil-repl-history) |Make the # char work for all REPLs  |
 | [github.com/ecraven/r7rs-swank](https://github.com/ecraven/r7rs-swank) | Swank server for r7rs Schemes |
-| [github.com/kyoto-shift/spirit](https://github.com/kyoto-shift/spirit) | A minimal command line parsing library |
 | [github.com/fare/gerbil-utils](https://github.com/fare/gerbil-utils) | Gerbil Clan: Community curated Collection of Common Utilities |
 | [github.com/hckiang/srfi-54](https://github.com/hckiang/srfi-54) | SRFI-54 |
+| [github.com/kyoto-shift/spirit](https://github.com/kyoto-shift/spirit) | A minimal command line parsing library |
 | [github.com/ober/confluence](https://github.com/ober/confluence) | Confluence cli |
 | [github.com/ober/datadog](https://github.com/ober/datadog) | Datadog package |
 | [github.com/ober/jira](https://github.com/ober/jira) | jira client |
