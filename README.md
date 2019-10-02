@@ -15,6 +15,7 @@ and open a PR!
 | [github.com/fare/gerbil-utils](https://github.com/fare/gerbil-utils) | Gerbil Clan: Community curated Collection of Common Utilities |
 | [github.com/hckiang/srfi-54](https://github.com/hckiang/srfi-54) | SRFI-54 |
 | [github.com/kyoto-shift/spirit](https://github.com/kyoto-shift/spirit) | A minimal command line parsing library |
+| [github.com/lassik/gerbil-srfi-175](github.com/lassik/gerbil-srfi-175) | SRFI 175 (ASCII character library) |
 | [github.com/ober/confluence](https://github.com/ober/confluence) | Confluence cli |
 | [github.com/ober/datadog](https://github.com/ober/datadog) | Datadog package |
 | [github.com/ober/jira](https://github.com/ober/jira) | jira client |
