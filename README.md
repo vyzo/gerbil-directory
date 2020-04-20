@@ -18,11 +18,11 @@ and open a PR!
 | [github.com/hckiang/srfi-54](https://github.com/hckiang/srfi-54) | SRFI-54 |
 | [github.com/kyoto-shift/spirit](https://github.com/kyoto-shift/spirit) | A minimal command line parsing library |
 | [github.com/lassik/gerbil-srfi-175](https://github.com/lassik/gerbil-srfi-175) | SRFI 175: ASCII character library |
+| [github.com/ober/Kunabi](https://github.com/ober/Kunabi) | Cloudtrail parser |
 | [github.com/ober/confluence](https://github.com/ober/confluence) | Confluence cli |
 | [github.com/ober/datadog](https://github.com/ober/datadog) | Datadog package |
-| [github.com/ober/jira](https://github.com/ober/jira) | jira client |
-| [github.com/ober/Kunabi](https://github.com/ober/Kunabi) | Cloudtrail parser |
-| [github.com/ober/mpx8](https://github.com/ober/mpx8) | Mpx8 CLI tools |
+| [github.com/ober/jira](https://github.com/ober/jira) | Jira client |
+| [github.com/ober/pagerduty](https://github.com/ober/pagerduty) | Pagerduty Package |
 | [github.com/ober/slack](https://github.com/ober/slack) | Slack Package |
 | [github.com/proksi21/gerbil-tools](https://github.com/proksi21/gerbil-tools) | Gerbil Xerx: Collection of useful macros (aif, alambda and so on) |
 | [github.com/thunknyc/gerbil-apropos](https://github.com/thunknyc/gerbil-apropos) | Tool for generating exported Gerbil names |
