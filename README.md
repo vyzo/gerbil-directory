@@ -15,6 +15,7 @@ and open a PR!
 | [github.com/eraserhd/clojerbil](https://github.com/eraserhd/clojerbil) | Clojure-compatibility stuff |
 | [github.com/eraserhd/gitout](https://github.com/eraserhd/gitout) | Missing git/github command-line utilities |
 | [github.com/fare/gerbil-utils](https://github.com/fare/gerbil-utils) | Gerbil Clan: Community curated Collection of Common Utilities |
+| [github.com/fare/gerbil-crypto](https://github.com/fare/gerbil-crypto) | Gerbil Crypto: Extra Cryptographic Primitives for Gerbil |
 | [github.com/hckiang/srfi-54](https://github.com/hckiang/srfi-54) | SRFI-54 |
 | [github.com/kyoto-shift/spirit](https://github.com/kyoto-shift/spirit) | A minimal command line parsing library |
 | [github.com/lassik/gerbil-srfi-175](https://github.com/lassik/gerbil-srfi-175) | SRFI 175: ASCII character library |
