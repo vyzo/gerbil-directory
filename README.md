@@ -13,6 +13,7 @@ and open a PR!
 | [github.com/drewc/gerbil-repl-history](https://github.com/drewc/gerbil-repl-history) |Make the # char work for all REPLs  |
 | [github.com/ecraven/r7rs-swank](https://github.com/ecraven/r7rs-swank) | Swank server for r7rs Schemes |
 | [github.com/eraserhd/clojerbil](https://github.com/eraserhd/clojerbil) | Clojure-compatibility stuff |
+| [github.com/eraserhd/gerbil-bencode](https://github.com/eraserhd/gerbil-bencode) | A bencode library |
 | [github.com/eraserhd/gitout](https://github.com/eraserhd/gitout) | Missing git/github command-line utilities |
 | [github.com/fare/gerbil-crypto](https://github.com/fare/gerbil-crypto) | Gerbil Crypto: Extra Cryptographic Primitives for Gerbil |
 | [github.com/fare/gerbil-ethereum](https://github.com/fare/gerbil-ethereum) | Gerbil Ethereum: Gerbil client to Ethereum nodes |
