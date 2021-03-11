@@ -7,7 +7,7 @@ and open a PR!
 | Package | Description |
 |---------|-------------|
 | [github.com/danielsz/gerbil-gumbo](https://github.com/danielsz/gerbil-gumbo) | Gumbo parser bindings |
-| [github.com/drewc/gerbil-ftw](https://github.com/drewc/gerbil-ftw) | For the Web! |
+| [github.com/drewc/ftw](https://github.com/drewc/ftw) | For the Web! |
 | [github.com/drewc/gerbil-local-time](https://github.com/drewc/gerbil-local-time) | A gerbil package that implements "The Long, Painful History of Time" |
 | [github.com/drewc/gerbil-midi](https://github.com/drewc/gerbil-midi) | A simple way of interacting with MIDI events and files.|
 | [github.com/drewc/gerbil-repl-history](https://github.com/drewc/gerbil-repl-history) |Make the # char work for all REPLs  |
@@ -41,4 +41,5 @@ and open a PR!
 | [github.com/vyzo/gerbil-libp2p](https://github.com/vyzo/gerbil-libp2p) | libp2p bindings |
 | [github.com/vyzo/gerbil-netvis](https://github.com/vyzo/gerbil-netvis) | A simple network visualizer for pubsub message propagation |
 | [github.com/vyzo/gerbil-simsub](https://github.com/vyzo/gerbil-simsub) | A pubsub protocol and its simulator |
+| [gitlab.com/mukn/glow](https://gitlab.com/mukn/glow) | Glow: language of safe decentralized applications |
 <!-- end-pkg -->
