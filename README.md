@@ -21,6 +21,7 @@ and open a PR!
 | [github.com/fare/gerbil-poo](https://github.com/fare/gerbil-poo) | Gerbil POO: Prototype Object Orientation |
 | [github.com/fare/gerbil-utils](https://github.com/fare/gerbil-utils) | Gerbil Clan: Community curated Collection of Common Utilities |
 | [github.com/hckiang/srfi-54](https://github.com/hckiang/srfi-54) | SRFI-54 |
+| [github.com/kwannoel/gerbilKanren](https://github.com/kwannoel/gerbilKanren) | MicroKanren on Gerbil Scheme |
 | [github.com/kyoto-shift/spirit](https://github.com/kyoto-shift/spirit) | A minimal command line parsing library |
 | [github.com/lassik/gerbil-srfi-175](https://github.com/lassik/gerbil-srfi-175) | SRFI 175: ASCII character library |
 | [github.com/ober/Kunabi](https://github.com/ober/Kunabi) | Cloudtrail parser |
