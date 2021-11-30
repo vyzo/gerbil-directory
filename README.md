@@ -42,7 +42,7 @@ and open a PR!
 | [github.com/vyzo/gerbil-libp2p](https://github.com/vyzo/gerbil-libp2p) | libp2p bindings |
 | [github.com/vyzo/gerbil-netvis](https://github.com/vyzo/gerbil-netvis) | A simple network visualizer for pubsub message propagation |
 | [github.com/vyzo/gerbil-simsub](https://github.com/vyzo/gerbil-simsub) | A pubsub protocol and its simulator |
-| [gitlab.com/mukn/glow](https://gitlab.com/mukn/glow) | Glow: language of safe decentralized applications |
 | [github.com/yanndegat/colorstring](https://github.com/yanndegat/colorstring) | a library for outputting colored strings to a console using a simple inline syntax in your string to specify the color to print as |
 | [github.com/yanndegat/gerbil-namegen](https://github.com/yanndegat/gerbil-namegen) | Namegen is a gerbil package for generating random names|
+| [gitlab.com/mukn/glow](https://gitlab.com/mukn/glow) | Glow: language of safe decentralized applications |
 <!-- end-pkg -->
