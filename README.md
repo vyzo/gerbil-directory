@@ -6,6 +6,7 @@ and open a PR!
 <!-- begin-pkg -->
 | Package | Description |
 |---------|-------------|
+| [github.com/Glow-lang/glow](https://github.com/Glow-lang/glow) | Glow: language of safe decentralized applications |
 | [github.com/danielsz/gerbil-gumbo](https://github.com/danielsz/gerbil-gumbo) | Gumbo parser bindings |
 | [github.com/drewc/ftw](https://github.com/drewc/ftw) | For the Web! |
 | [github.com/drewc/gerbil-local-time](https://github.com/drewc/gerbil-local-time) | A gerbil package that implements "The Long, Painful History of Time" |
@@ -44,5 +45,4 @@ and open a PR!
 | [github.com/vyzo/gerbil-simsub](https://github.com/vyzo/gerbil-simsub) | A pubsub protocol and its simulator |
 | [github.com/yanndegat/colorstring](https://github.com/yanndegat/colorstring) | a library for outputting colored strings to a console using a simple inline syntax in your string to specify the color to print as |
 | [github.com/yanndegat/gerbil-namegen](https://github.com/yanndegat/gerbil-namegen) | Namegen is a gerbil package for generating random names|
-| [gitlab.com/mukn/glow](https://gitlab.com/mukn/glow) | Glow: language of safe decentralized applications |
 <!-- end-pkg -->
