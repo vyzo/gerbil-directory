@@ -8,6 +8,8 @@ and open a PR!
 |---------|-------------|
 | [github.com/Glow-lang/glow](https://github.com/Glow-lang/glow) | Glow: language of safe decentralized applications |
 | [github.com/danielsz/gerbil-gumbo](https://github.com/danielsz/gerbil-gumbo) | Gumbo parser bindings |
+| [github.com/dlozeve/fancy](https://github.com/dlozeve/fancy) |  Fancy terminal pretty-printing utilities |
+| [github.com/dlozeve/uniplot](https://github.com/dlozeve/uniplot) |  Unicode plotting tool for displaying CSV data directly in your terminal |
 | [github.com/drewc/ftw](https://github.com/drewc/ftw) | For the Web! |
 | [github.com/drewc/gerbil-local-time](https://github.com/drewc/gerbil-local-time) | A gerbil package that implements "The Long, Painful History of Time" |
 | [github.com/drewc/gerbil-midi](https://github.com/drewc/gerbil-midi) | A simple way of interacting with MIDI events and files.|
