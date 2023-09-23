@@ -24,7 +24,12 @@ and open a PR!
 | [github.com/lassik/gerbil-srfi-175](https://github.com/lassik/gerbil-srfi-175) | SRFI 175: ASCII character library |
 | [github.com/mighty-gerbils/gerbil-crypto](https://github.com/mighty-gerbils/gerbil-crypto) | Gerbil Crypto: Extra Cryptographic Primitives for Gerbil |
 | [github.com/mighty-gerbils/gerbil-ethereum](https://github.com/mighty-gerbils/gerbil-ethereum) | Gerbil Ethereum: Gerbil client to Ethereum nodes |
+| [github.com/mighty-gerbils/gerbil-leveldb](https://github.com/mighty-gerbils/gerbil-leveldb) | Gerbil leveldb: use leveldb key-value stores via FFI |
+| [github.com/mighty-gerbils/gerbil-lmdb](https://github.com/mighty-gerbils/gerbil-lmdb) | Gerbil LMDB: use LMDB key-value stores via FFI |
+| [github.com/mighty-gerbils/gerbil-libxml](https://github.com/mighty-gerbils/gerbil-libxml) | Gerbil libxml: parse and process XML and HTML via FFI |
+| [github.com/mighty-gerbils/gerbil-libyaml](https://github.com/mighty-gerbils/gerbil-libyaml) | Gerbil libyaml: parse and process YAML configurations via FFI |
 | [github.com/mighty-gerbils/gerbil-persist](https://github.com/mighty-gerbils/gerbil-persist) | Gerbil Persist: Persistence for Concurrent Activities |
+| [github.com/mighty-gerbils/gerbil-mysql](https://github.com/mighty-gerbils/gerbil-mysql) | Gerbil mysql: connect to MySQL/MariaDB via FFI |
 | [github.com/mighty-gerbils/gerbil-poo](https://github.com/mighty-gerbils/gerbil-poo) | Gerbil POO: Prototype Object Orientation |
 | [github.com/mighty-gerbils/gerbil-utils](https://github.com/mighty-gerbils/gerbil-utils) | Gerbil Clan: Community curated Collection of Common Utilities |
 | [github.com/ober/Kunabi](https://github.com/ober/Kunabi) | Cloudtrail parser |
