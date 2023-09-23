@@ -18,15 +18,15 @@ and open a PR!
 | [github.com/eraserhd/clojerbil](https://github.com/eraserhd/clojerbil) | Clojure-compatibility stuff |
 | [github.com/eraserhd/gerbil-bencode](https://github.com/eraserhd/gerbil-bencode) | A bencode library |
 | [github.com/eraserhd/gitout](https://github.com/eraserhd/gitout) | Missing git/github command-line utilities |
-| [github.com/fare/gerbil-crypto](https://github.com/fare/gerbil-crypto) | Gerbil Crypto: Extra Cryptographic Primitives for Gerbil |
-| [github.com/fare/gerbil-ethereum](https://github.com/fare/gerbil-ethereum) | Gerbil Ethereum: Gerbil client to Ethereum nodes |
-| [github.com/fare/gerbil-persist](https://github.com/fare/gerbil-persist) | Gerbil Persist: Persistence for Concurrent Activities |
-| [github.com/fare/gerbil-poo](https://github.com/fare/gerbil-poo) | Gerbil POO: Prototype Object Orientation |
-| [github.com/fare/gerbil-utils](https://github.com/fare/gerbil-utils) | Gerbil Clan: Community curated Collection of Common Utilities |
 | [github.com/hckiang/srfi-54](https://github.com/hckiang/srfi-54) | SRFI-54 |
 | [github.com/kwannoel/gerbilKanren](https://github.com/kwannoel/gerbilKanren) | MicroKanren on Gerbil Scheme |
 | [github.com/kyoto-shift/spirit](https://github.com/kyoto-shift/spirit) | A minimal command line parsing library |
 | [github.com/lassik/gerbil-srfi-175](https://github.com/lassik/gerbil-srfi-175) | SRFI 175: ASCII character library |
+| [github.com/mighty-gerbils/gerbil-crypto](https://github.com/mighty-gerbils/gerbil-crypto) | Gerbil Crypto: Extra Cryptographic Primitives for Gerbil |
+| [github.com/mighty-gerbils/gerbil-ethereum](https://github.com/mighty-gerbils/gerbil-ethereum) | Gerbil Ethereum: Gerbil client to Ethereum nodes |
+| [github.com/mighty-gerbils/gerbil-persist](https://github.com/mighty-gerbils/gerbil-persist) | Gerbil Persist: Persistence for Concurrent Activities |
+| [github.com/mighty-gerbils/gerbil-poo](https://github.com/mighty-gerbils/gerbil-poo) | Gerbil POO: Prototype Object Orientation |
+| [github.com/mighty-gerbils/gerbil-utils](https://github.com/mighty-gerbils/gerbil-utils) | Gerbil Clan: Community curated Collection of Common Utilities |
 | [github.com/ober/Kunabi](https://github.com/ober/Kunabi) | Cloudtrail parser |
 | [github.com/ober/confluence](https://github.com/ober/confluence) | Confluence cli |
 | [github.com/ober/datadog](https://github.com/ober/datadog) | Datadog package |
